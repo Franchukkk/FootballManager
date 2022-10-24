@@ -44,6 +44,14 @@ body {
     text-decoration: none;
 }
 
+li>a:hover{
+    text-decoration: none;
+}
+
+.contacts a:hover{
+    text-decoration: underline;
+}
+
 .logo b {
     display: block;
     color: #39930d;
