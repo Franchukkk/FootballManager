@@ -98,6 +98,7 @@ li>a:hover {
 }
 
 .main h1 {
+    padding-top: 10px;
     margin-bottom: 17px;
     color: #39930d;
     font-size: 24rem;
