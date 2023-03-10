@@ -106,7 +106,7 @@ li>a:hover {
 
 .main-picture {
     width: 100%;
-    height: 200px;
+    height: 200rem;
     object-fit: cover;
     object-position: 75%;
     vertical-align: bottom;
