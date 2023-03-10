@@ -94,10 +94,11 @@ li>a:hover {
     justify-content: space-between;
     padding-bottom: 30rem;
     padding-top: 25rem;
+    column-gap: 10px;
 }
 
 .main h1 {
-    line-height: 65rem;
+    margin-bottom: 17px;
     color: #39930d;
     font-size: 24rem;
     font-weight: bold;
