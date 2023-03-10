@@ -202,5 +202,16 @@ li>a {
     .menu{
         background-color: transparent;
     }
+}
 
+@media screen and (min-width: 1440px){
+    html{
+        font-size: 1.1px;
+    }
+}
+
+@media screen and (min-width: 2200px){
+    html{
+        font-size: 1.3px;
+    }
 }
