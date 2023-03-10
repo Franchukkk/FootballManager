@@ -92,13 +92,13 @@ li>a:hover {
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: space-between;
+    row-gap: 20px;
     padding-bottom: 30rem;
     padding-top: 25rem;
     column-gap: 10px;
 }
 
 .main h1 {
-    padding-top: 10px;
     margin-bottom: 17px;
     color: #39930d;
     font-size: 24rem;
